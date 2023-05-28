@@ -35,5 +35,5 @@ background-image: url("https://cdn.pixabay.com/photo/2021/10/30/12/41/mountains-
 .card{
     flex-basis: 25%;
     height: 400px;
-
-}
+    padding: 30px;
+    }
